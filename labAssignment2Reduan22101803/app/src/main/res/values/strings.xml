@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">labass2</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    
+    <!-- New Menu Items -->
+    <string name="menu_broadcast">Broadcast Receiver</string>
+    <string name="menu_image_scale">Image Scale</string>
+    <string name="menu_video">Video</string>
+    <string name="menu_audio">Audio</string>
+    
+    <!-- Broadcast Receiver Strings -->
+    <string name="select_broadcast_type">Select Broadcast Type</string>
+    <string name="custom_broadcast">Custom broadcast receiver</string>
+    <string name="system_battery">System battery notification receiver</string>
+    <string name="proceed">Proceed</string>
+    <string name="enter_message">Enter message</string>
+    <string name="send_broadcast">Send Broadcast</string>
+    <string name="battery_level">Battery Level: %d%%</string>
+    <string name="received_message">Received Message: %s</string>
+    
+    <!-- Broadcast types array -->
+    <string-array name="broadcast_types">
+        <item>Custom broadcast receiver</item>
+        <item>System battery notification receiver</item>
+    </string-array>
+</resources>
